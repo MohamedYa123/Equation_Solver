@@ -1,0 +1,10 @@
+C:\Users\medo1\source\repos\Equations solver\Equations solver\bin\Debug\Equations solver.exe
+C:\Users\medo1\source\repos\Equations solver\Equations solver\bin\Debug\Equations solver.pdb
+C:\Users\medo1\source\repos\Equations solver\Equations solver\bin\Debug\Guna.UI2.dll
+C:\Users\medo1\source\repos\Equations solver\Equations solver\obj\Debug\Equations solver.csproj.AssemblyReference.cache
+C:\Users\medo1\source\repos\Equations solver\Equations solver\obj\Debug\Equations_solver.Form1.resources
+C:\Users\medo1\source\repos\Equations solver\Equations solver\obj\Debug\Equations_solver.Properties.Resources.resources
+C:\Users\medo1\source\repos\Equations solver\Equations solver\obj\Debug\Equations solver.csproj.GenerateResource.cache
+C:\Users\medo1\source\repos\Equations solver\Equations solver\obj\Debug\Equations solver.csproj.CoreCompileInputs.cache
+C:\Users\medo1\source\repos\Equations solver\Equations solver\obj\Debug\Equations solver.exe
+C:\Users\medo1\source\repos\Equations solver\Equations solver\obj\Debug\Equations solver.pdb
